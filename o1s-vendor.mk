@@ -67,7 +67,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/o1s/proprietary/vendor/firmware/sb_ll.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/sb_ll.bin \
     vendor/samsung/o1s/proprietary/vendor/firmware/sb_music.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/sb_music.bin \
     vendor/samsung/o1s/proprietary/vendor/firmware/sb_others.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/sb_others.bin \
-    vendor/samsung/o1s/proprietary/vendor/firmware/secure_configuration.flm.cfg.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/secure_configuration.flm.cfg.bin \
     vendor/samsung/o1s/proprietary/vendor/firmware/setfile_2ld.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_2ld.bin \
     vendor/samsung/o1s/proprietary/vendor/firmware/setfile_3j1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_3j1.bin \
     vendor/samsung/o1s/proprietary/vendor/firmware/setfile_3j1_tele1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_3j1_tele1.bin \
