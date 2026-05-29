@@ -133,6 +133,7 @@ PRODUCT_PACKAGES += \
     libbauthtzcommon \
     libegis_fp_normal_sensor_test \
     libexynoscamera3 \
+    libexynoscamera_ssl_plugin \
     libexynoscamera_vpl_plugin \
     libgf_in_system_lib \
     libqfp_sensortest \
