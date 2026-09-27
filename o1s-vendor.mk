@@ -76,6 +76,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/o1s/proprietary/vendor/firmware/setfile_imx563.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_imx563.bin \
     vendor/samsung/o1s/proprietary/vendor/firmware/txse1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/txse1.bin \
     vendor/samsung/o1s/proprietary/vendor/firmware/txse2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/txse2.bin \
+    vendor/samsung/o1s/proprietary/vendor/firmware/txse4.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/txse4.bin \
     vendor/samsung/o1s/proprietary/vendor/firmware/vts.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vts.bin \
     vendor/samsung/o1s/proprietary/vendor/firmware/y792_o1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/y792_o1.bin \
     vendor/samsung/o1s/proprietary/vendor/tee/00000000-0000-0000-0000-000000010081:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-000000010081 \
